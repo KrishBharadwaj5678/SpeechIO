@@ -38,7 +38,7 @@
 | ---------- | ------- |
 | <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core scripting and program execution |
 | <img src="https://github.com/KrishBharadwaj5678/SpeechIO/raw/main/assets/icons/gTTS.png" width="25"/> **gTTS** | Convert text into speech (TTS) |
-| <img src="https://github.com/KrishBharadwaj5678/SpeechIO/raw/main/assets/icons/speechRecognition.png" width="25"/> **SpeechcRecognition** | Convert speech input into text (STT) |
+| <img src="https://github.com/KrishBharadwaj5678/SpeechIO/raw/main/assets/icons/speechRecognition.png" width="25"/> **SpeechRecognition** | Convert speech input into text (STT) |
 
 <img src="https://github.com/KrishBharadwaj5678/SpeechIO/raw/main/assets/readme/divider.gif" width="100%"/>
 
